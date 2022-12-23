@@ -1,0 +1,11 @@
+{
+  "name": "mailapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
